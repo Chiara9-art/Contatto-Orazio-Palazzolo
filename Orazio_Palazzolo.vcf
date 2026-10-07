@@ -2,9 +2,9 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Orazio Palazzolo
 N:Palazzolo;Orazio;;;
-ORG:CLM Texfinity; King Star; Euro Folder
-TITLE:Direzione Commerciale e Sviluppo
+ORG:SILIT
+TITLE:Direzione Commerciale e Sviluppo SILIT
 TEL;TYPE=CELL,VOICE:+393482636469
-EMAIL;TYPE=INTERNET:orazio@clmtexfinity.com
-NOTE:Collaborazioni: CLM Texfinity, King Star, Euro Folder
+EMAIL;TYPE=INTERNET:orazio@opalazzolo.com
+URL:https://progettopiu.my.canva.site/sito-web-silit
 END:VCARD
